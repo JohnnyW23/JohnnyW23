@@ -1,12 +1,18 @@
-# Hello, friends! I am Davi.
-
-### About me
+# Hello, friends! I am Davi =-]
 
 💻 I'm a [Front-End | Back-End | Fullstack] developer and student.
 
 🎓 Currently, I'm studying [[Front-End Webmaster Complete Course](https://cursos.dankicode.com/campus/curso-front-end-completo)] @ [[Danki Code](https://cursos.dankicode.com)]
 
-### My tools & technologies 🔧
+# Latest Projects 🔥
+
+[Cyber Quest](https://johnnyw23.github.io/cyber-quest) - A web game 100% made with JavaScript about cyber-security. Do you have what it takes to win?
+
+[RogueStar](https://johnnyw23.github.io/card-collection) - Project of a web page displaying a fictional RPG card collection. Hope you enjoy!
+
+[Filmalyze](https://johnnyw23.github.io/web-scraping-filmalyze) - This one is a web page made with a little help from Python! It's a social network about movies. All content was gatheres through web scraping.
+
+## My tools & technologies 🔧
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,23 +22,23 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Currenly, I am learning... 🧩
+## Currenly, I am learning... 🧩
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Completed courses 📚
+## Completed courses 📚
 
 ![Complete Python Danki Code](https://img.shields.io/badge/Danki_Code-black?style=for-the-badge&logo=python&logoColor=ffdd54&label=Complete%20Python&labelColor=%2319272E&color=2A1E47&link=https%3A%2F%2Fcursos.dankicode.com%2Fcampus%2Fcurso-python-completo%2F
 )
 
-### GitHub Stats ⚡
+## GitHub Stats ⚡
 <div>
 <a href="https://github.com/JohnnyW23">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyW23&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Get in touch with me! 📭
+## Get in touch with me! 📭
 <div>
 <a href=https://www.instagram.com/johnny.nascimento23/ target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href=https://www.linkedin.com/in/davinasc/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
