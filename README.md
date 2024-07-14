@@ -6,7 +6,9 @@
 
 # Latest Projects 🔥
 
-[Cyber Quest](https://johnnyw23.github.io/cyber-quest) - A web game 100% made with JavaScript about cyber-security. Do you have what it takes to win?
+[React To Do List App](https://react-to-do-ashen.vercel.app) - An application to write down your tasks to do and make your day more productive and organised.
+
+[Cyber Quest](https://johnnyw23.github.io/cyber-quest) - A web game about cyber-security, 100% made with JavaScript. Do you have what it takes to win?
 
 [RogueStar](https://johnnyw23.github.io/card-collection) - Project of a web page displaying a fictional RPG card collection. Hope you enjoy!
 
