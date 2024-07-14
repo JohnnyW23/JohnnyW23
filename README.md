@@ -10,7 +10,7 @@
 
 [RogueStar](https://johnnyw23.github.io/card-collection) - Project of a web page displaying a fictional RPG card collection. Hope you enjoy!
 
-[Filmalyze](https://johnnyw23.github.io/web-scraping-filmalyze) - This one is a web page made with a little help from Python! It's a social network about movies. All content was gatheres through web scraping.
+[Filmalyze](https://johnnyw23.github.io/web-scraping-filmalyze) - This one is a web page made with a little help from Python! It's a social network about movies. All content was gathered through web scraping.
 
 ## My tools & technologies 🔧
 
