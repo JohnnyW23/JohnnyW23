@@ -2,7 +2,7 @@
 
 💻 I'm a FullStack developer and student.
 
-🎓 Currently, I'm studying [[Front-End Webmaster Complete Course](https://cursos.dankicode.com/campus/curso-front-end-completo)] @ [[Danki Code](https://cursos.dankicode.com)]
+🎓 Currently, I'm studying [Front-End Webmaster Complete Course](https://cursos.dankicode.com/campus/curso-front-end-completo) @ [Danki Code](https://cursos.dankicode.com)
 
 # Latest Projects 🔥
 
