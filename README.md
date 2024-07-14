@@ -1,6 +1,6 @@
 # Hello, friends! I am Davi =-]
 
-💻 I'm a [Front-End | Back-End | Fullstack] developer and student.
+💻 I'm a FullStack developer and student.
 
 🎓 Currently, I'm studying [[Front-End Webmaster Complete Course](https://cursos.dankicode.com/campus/curso-front-end-completo)] @ [[Danki Code](https://cursos.dankicode.com)]
 
