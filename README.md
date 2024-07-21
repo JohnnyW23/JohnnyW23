@@ -2,7 +2,7 @@
 
 💻 I'm a FullStack developer and student.
 
-🎓 Currently, I'm studying [Front-End Webmaster Complete Course](https://cursos.dankicode.com/campus/curso-front-end-completo) @ [Danki Code](https://cursos.dankicode.com)
+🎓 Currently, I'm studying [React](https://www.theodinproject.com/paths/full-stack-javascript/courses/react) @ [The Odin Project](https://www.theodinproject.com)
 
 # Latest Projects 🔥
 
@@ -19,6 +19,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -26,11 +27,12 @@
 
 ## Currently, I am learning... 🧩
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Completed courses 📚
 
+![Front-End Webmaster Danki Code](https://img.shields.io/badge/Danki_Code-black?style=for-the-badge&logo=html5&logoColor=ffdd54&label=Front-End%20Webmaster&labelColor=%2319272E&color=2A1E47&link=https%3A%2F%2Fcursos.dankicode.com%2Fcampus%2Fcurso-front-end-completo%2F)\
+![Complete JavaScript Danki Code](https://img.shields.io/badge/Danki_Code-black?style=for-the-badge&logo=javascript&logoColor=ffdd54&label=Complete%20JavaScript&labelColor=%2319272E&color=2A1E47&link=https%3A%2F%2Fcursos.dankicode.com%2Fcampus%2Fcurso-javascript-completo%2F)\
 ![Complete Python Danki Code](https://img.shields.io/badge/Danki_Code-black?style=for-the-badge&logo=python&logoColor=ffdd54&label=Complete%20Python&labelColor=%2319272E&color=2A1E47&link=https%3A%2F%2Fcursos.dankicode.com%2Fcampus%2Fcurso-python-completo%2F
 )
 
