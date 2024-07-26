@@ -6,13 +6,15 @@
 
 # Latest Projects 🔥
 
-[React To Do List App](https://react-to-do-ashen.vercel.app) - An application to write down your tasks to do and make your day more productive and organised.
+[React Memory Card Game](https://themed-memory-game.vercel.app) - An application made as a completion for an project of The Odin Project. Play it and have fun!
 
-[Cyber Quest](https://johnnyw23.github.io/cyber-quest) - A web game about cyber-security, 100% made with JavaScript. Do you have what it takes to win?
+[Cyber Quest](https://johnnyw23.github.io/cyber-quest) - A web game about cyber-security, 100% made with JavaScript and jQuery. Do you have what it takes to win?
 
 [RogueStar](https://johnnyw23.github.io/card-collection) - Project of a web page displaying a fictional RPG card collection. Hope you enjoy!
 
 [Filmalyze](https://johnnyw23.github.io/web-scraping-filmalyze) - This one is a web page made with a little help from Python! It's a social network about movies. All content was gathered through web scraping.
+
+[React To Do List App](https://react-to-do-ashen.vercel.app) - An application to write down your tasks to do and make your day more productive and organised.
 
 ## My tools & technologies 🔧
 
